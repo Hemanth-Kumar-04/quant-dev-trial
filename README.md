@@ -4,7 +4,7 @@ Overview
 This repository implements a single-pass C++ solution to reconstruct the Market-by-Price top 10 levels (MBP-10) order book from a Market-by-Order (MBO) CSV input. It faithfully follows the Blockhouse Quantitative Developer trial requirements, including special handling of the T→F→C trade/cancel sequences and no-side ('N') trades.
 
 
-#RUN
+#Run
 GO TO THE ROOT OF REPO: .\reconstruction_hemanth.exe data\mbo.csv > out.csv
 
 #BUILD BINARY FILE IF NEEDED: make
