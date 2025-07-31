@@ -65,7 +65,7 @@ make
 - Splits each line by `,` into a `std::vector<std::string>` for simple, dependency-free parsing
 
 
-## Execution Time: 1094.8741 ms
+## Execution Time: 1094.8741 ms  ~(1.0948741 seconds)
 
 
 ## Requirements
